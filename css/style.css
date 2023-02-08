@@ -1,0 +1,57 @@
+header {
+    text-align: center;
+    color: rgb(197, 124, 29);
+  }
+  
+  
+  body {
+      background-color: lightcyan;
+    }
+  /* end of background*/
+  
+  nav {
+    background-color: gray;
+  }
+  
+  /* star of nav css*/
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    font-weight: bold;
+  }
+  
+  
+  nav a:hover{
+
+      background: pink;
+      color: red;
+  }
+  
+  /* end of navigation menu*/
+  
+  img {
+    border-radius: 8px;
+  }
+  /* here the round border apples in all the images used in the site*/
+
+
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+
+p{
+    color: red;
+}
+/* for all text used inside paragraph tag (<p>)  */
