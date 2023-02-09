@@ -55,3 +55,10 @@ p{
     color: red;
 }
 /* for all text used inside paragraph tag (<p>)  */
+
+h3{
+  color: black;
+  background-color: pink;
+  text-align: center;
+
+}
